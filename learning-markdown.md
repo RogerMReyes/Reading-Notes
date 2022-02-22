@@ -33,7 +33,9 @@
 - Enclose the link text in brackets[]
 - immediately after it will be followed by parentheses to the URL
 - To turn URL's or email addresses into links quickly enclose them in angle brackets <>
-- 
+- Formatting with * also works with links
+- To link inside text it is best to encapsulate the text in [] and reference it with a [label] with the link later in the text
+
 
 
 
