@@ -8,7 +8,7 @@
 
 ## Emphasis
 
-- In oder to emphasize certain text it should be **Bold** or *Italicized* or ***Both***
+- In order to emphasize certain text it should be **Bold** or *Italicized* or ***Both***
 
 ## Ordered and UnOrdered Lists
 
@@ -21,7 +21,7 @@
 
 - Start the line with (!) for an image
 - Brackets [] will determine the alt text
-- Parenthases () will contain the link to the image 
+- Parentheses () will contain the link to the image 
 
 ## Backticks
 
