@@ -24,10 +24,24 @@
   6. Following this is the file size.
   7. Next up is the file modification time.
   8. Finally we have the actual name of the file or directory.
+- cd - **change directoy** changes to the location specified following the command
 
 ### Paths
 
 There are two types of paths
- - Absolute
- - relative
- - 
+ - **Absolute** will provide the same output regardless of current location
+ - **Relative** will have different outcomes depending on the current location
+ - The very top of the hierarchical structures is the root directory denoted by a (/)
+ - the tilde ~ key is short for the home directory
+ - the dot . key references the current directory
+ - double dot .. references the parent directory
+
+## Files!
+
+- Linux is case sensetive so always double check you are issuing the correct casing when typing
+- Linux is an extensionless system and does not need extensions like .jpg or .txt
+- Be careful with spacing as it can affect typing out commands
+- Using quotes '' encases everything to one item 
+- Backslash (\) nulifies the special meaning of the next character
+- files starting with a dot (.) are hidden files
+- to see hidden files include use **ls -a**
