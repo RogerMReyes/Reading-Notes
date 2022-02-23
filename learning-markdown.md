@@ -37,5 +37,3 @@
 - To link inside text it is best to encapsulate the text in [] and reference it with a [label] with the link later in the text
 
 [Return to the Main Page](https://rogermreyes.github.io/reading-notes/)
-
-

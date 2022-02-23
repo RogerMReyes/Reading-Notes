@@ -17,3 +17,4 @@ If you need to see my *profile* click here ---> [Roger's GitHub](https://github.
 - [the-coders-computer](https://rogermreyes.github.io/reading-notes/the-coders-computer) 
 - [revision-and-the-Cloud](https://rogermreyes.github.io/reading-notes/revisions-and-the-Cloud)
 - [structure-web-pages-with-HTML](https://rogermreyes.github.io/reading-notes/structure-web-pages-with-HTML)
+- [design-web-pages-with-CSS](https://rogermreyes.github.io/reading-notes/design-web-pages-with-CSS)
