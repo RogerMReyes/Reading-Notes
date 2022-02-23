@@ -45,3 +45,5 @@ There are two types of paths
 - Backslash (\) nulifies the special meaning of the next character
 - files starting with a dot (.) are hidden files
 - to see hidden files include use **ls -a**
+
+[Return to the Main Page](https://rogermreyes.github.io/reading-notes/)

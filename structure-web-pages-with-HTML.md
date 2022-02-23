@@ -67,5 +67,6 @@ Be sure to research the app or product in order to incorpate the data into the s
 
 Wireframes can either be done by hand on a piece of paper or by wireframe tools.  
 Paper allows flexability and are easy to change on spot  
-While wireframe tools have several extra features that may make the design process smoother 
- 
+While wireframe tools have several extra features that may make the design process smoother
+
+[Return to the Main Page](https://rogermreyes.github.io/reading-notes/)

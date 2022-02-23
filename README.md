@@ -11,5 +11,8 @@ A growth mindset to me means keeping an open mind for learning and keeping a pos
 ### ***Link To My Page!***
 If you need to see my *profile* click here ---> [Roger's GitHub](https://github.com/RogerMReyes).
 
-[learning-markdown](https://rogermreyes.github.io/reading-notes/learning-markdown).  
-[the-coders-
+## Table of Contents
+
+- [learning-markdown](https://rogermreyes.github.io/reading-notes/learning-markdown).  
+- [the-coders-computer](https://rogermreyes.github.io/reading-notes/the-coders-computer)  
+- [structure-web-pages-with-HTML](https://rogermreyes.github.io/reading-notes/structure-web-pages-with-HTML)
