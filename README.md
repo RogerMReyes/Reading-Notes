@@ -15,5 +15,5 @@ If you need to see my *profile* click here ---> [Roger's GitHub](https://github.
 
 - [learning-markdown](https://rogermreyes.github.io/reading-notes/learning-markdown).  
 - [the-coders-computer](https://rogermreyes.github.io/reading-notes/the-coders-computer) 
-- [revision-and-the-Cloud](https://rogermreyes.github.io/reading-notes/revision-and-the-Cloud)
+- [revision-and-the-Cloud](https://rogermreyes.github.io/reading-notes/revisions-and-the-Cloud)
 - [structure-web-pages-with-HTML](https://rogermreyes.github.io/reading-notes/structure-web-pages-with-HTML)
