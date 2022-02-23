@@ -4,9 +4,9 @@ Hypertext refers to links that conect web pages to one another.
 
 ## Anatomy of an HTML element
 
-\<p>My cat is very grumpy\</p> 
+\<p>My cat is very grumpy\</p>
 
-The entire line above is the **Element**    
+The entire line above is the **Element**  
 \<p> at the front is the **Opening Tag** while \</p> is the **Closing Tag**
 The text inbetween the tags is known as the **Content**
 
@@ -38,3 +38,34 @@ EX. wrapping a word with \<strong> with bold the word
 To add a link first wrap your text with an \<a> element  
 You will then add an href attribute with the webaddress inside double quotes after href  
 Ex. \<a \href="htttps/">Mozilla Manifesto</a>
+
+## Sementaincs
+
+**Semantics** refers to the meaning of a piece of code ie. what effect does running that line have?  
+Ex. of Semantic tags
+
+- \< articles >
+- \< aside >
+- \< details >
+- \< figcaption >
+- \< figure >
+- \< footer >
+- \< header >
+- \< main >
+- \< mark >
+- \< nav >
+- \< section >
+- \< summary >
+- \< time >
+
+## WireFrame Design
+
+A wireframe is how the user/ client wants to process and place the information on a site  
+Focus on meeting the clients needs or making the layout as smooth as possible  
+Planning the design early will help smooth out the later processes  
+Be sure to research the app or product in order to incorpate the data into the structure and vision of the end product  
+
+Wireframes can either be done by hand on a piece of paper or by wireframe tools.  
+Paper allows flexability and are easy to change on spot  
+While wireframe tools have several extra features that may make the design process smoother 
+ 
