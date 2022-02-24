@@ -26,7 +26,7 @@
 ## Backticks
 
 - Backticks denotes a word or phrase as code
-- if the line contains backticks you can enclose it in double backticks 
+- if the line contains back ticks you can enclose it in double back ticks
 
 ## Links
 

@@ -21,7 +21,7 @@
   - When it is set to be self invoked
 - Function `return` will return whatever value the code executes back to the statement
 - You can define the code once and use it multiple times
-- Variable declared within a funtion are **Local** Variables and can only be referenced within the function
+- Variable declared within a function are **Local** Variables and can only be referenced within the function
 
 ## JavaScript Operators
 

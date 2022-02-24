@@ -1,6 +1,6 @@
 # Operators and Loops
 
-JacaScript has both Binary and Unary Operators  
+JavaScript has both Binary and Unary Operators  
 
 Binary example - operand1 operator operand2  
 x * y
@@ -34,7 +34,7 @@ Logical nullish assignment | x ??= f() | x ?? (x = f())
 
 ## Comparison Operators
 
-- Compares its operands and returns a logical value depending on whether the camparison is true
+- Compares its operands and returns a logical value depending on whether the comparison is true
 
 Equal (==) | Returns true if the operands are equal.  
 Not equal (!=) | Returns true if the operands are not equal.  

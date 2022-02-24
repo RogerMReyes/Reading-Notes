@@ -1,6 +1,6 @@
 # HTLM: Hyper Text Markup Language
 
-Hypertext refers to links that conect web pages to one another.
+Hypertext refers to links that connect web pages to one another.
 
 ## Anatomy of an HTML element
 
@@ -8,7 +8,7 @@ Hypertext refers to links that conect web pages to one another.
 
 The entire line above is the **Element**  
 \<p> at the front is the **Opening Tag** while \</p> is the **Closing Tag**
-The text inbetween the tags is known as the **Content**
+The text in between the tags is known as the **Content**
 
 **Attributes** contain extra information about the element that you don't want appearing in the actual content 
 
@@ -31,15 +31,15 @@ EX. wrapping a word with \<strong> with bold the word
 - \<p> contains paragraphs
 - \<ul> are Unordered Lists
 - \<ol> are Ordered Lists
-- \<li> will wrap each item withiin a list
+- \<li> will wrap each item within a list
 
 ### Links
 
 To add a link first wrap your text with an \<a> element  
-You will then add an href attribute with the webaddress inside double quotes after href  
+You will then add an href attribute with the web address inside double quotes after href  
 Ex. \<a \href="htttps/">Mozilla Manifesto</a>
 
-## Sementaincs
+## Semantics
 
 **Semantics** refers to the meaning of a piece of code ie. what effect does running that line have?  
 Ex. of Semantic tags
@@ -60,13 +60,13 @@ Ex. of Semantic tags
 
 ## WireFrame Design
 
-A wireframe is how the user/ client wants to process and place the information on a site  
+A wire frame is how the user/ client wants to process and place the information on a site  
 Focus on meeting the clients needs or making the layout as smooth as possible  
 Planning the design early will help smooth out the later processes  
-Be sure to research the app or product in order to incorpate the data into the structure and vision of the end product  
+Be sure to research the app or product in order to incorporate the data into the structure and vision of the end product  
 
-Wireframes can either be done by hand on a piece of paper or by wireframe tools.  
-Paper allows flexability and are easy to change on spot  
-While wireframe tools have several extra features that may make the design process smoother
+Wire frames can either be done by hand on a piece of paper or by wire frame tools.  
+Paper allows flexibility and are easy to change on spot  
+While wire frame tools have several extra features that may make the design process smoother
 
 [Return to the Main Page](https://rogermreyes.github.io/reading-notes/)

@@ -5,7 +5,7 @@ Examples of what JavaScript can do
 
 - Store values inside variables
 - Conduct Operations on pieces of text
-- Run code in response to to certain events occuring on the web page
+- Run code in response to to certain events occurring on the web page
 
 ## Building Blocks
 
