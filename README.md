@@ -19,3 +19,5 @@ If you need to see my *profile* click here ---> [Roger's GitHub](https://github.
 - [structure-web-pages-with-HTML](https://rogermreyes.github.io/reading-notes/structure-web-pages-with-HTML)
 - [design-web-pages-with-CSS](https://rogermreyes.github.io/reading-notes/design-web-pages-with-CSS)
 - [dynamic-web-pages-with-JavaScript](https://rogermreyes.github.io/reading-notes/dynamic-web-pages-with-JavaScript)
+- [programming-with-JavaScript](https://rogermreyes.github.io/reading-notes/programming-with-JavaScript).  
+
