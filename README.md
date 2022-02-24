@@ -20,4 +20,4 @@ If you need to see my *profile* click here ---> [Roger's GitHub](https://github.
 - [design-web-pages-with-CSS](https://rogermreyes.github.io/reading-notes/design-web-pages-with-CSS)
 - [dynamic-web-pages-with-JavaScript](https://rogermreyes.github.io/reading-notes/dynamic-web-pages-with-JavaScript)
 - [programming-with-JavaScript](https://rogermreyes.github.io/reading-notes/programming-with-JavaScript).  
-
+- [operators-and-loops](https://rogermreyes.github.io/reading-notes/operators-and-loops)
