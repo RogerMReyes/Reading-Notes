@@ -12,8 +12,8 @@ A growth mindset to me means keeping an open mind for learning and keeping a pos
 
 ## Reading Notes
 
-- [Class 102](https://github.com/RogerMReyes/Reading-Notes/Code-102-Reading-Notes).
-- [Class 201]()
+- [Class 102](https://rogermreyes.github.io/Reading-Notes/Code-102-Reading-Notes)
+- [Class 201](https://rogermreyes.github.io/Reading-Notes/Code-201-Reading-Notes)
 
 ### ***Link To My Page!***
 
