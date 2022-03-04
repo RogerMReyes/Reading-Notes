@@ -30,4 +30,4 @@ There are Three ways of inserting CSS
 
 The last used style sheet will always be the style that will be applied  
 
-[Return to the Main Page](https://rogermreyes.github.io/reading-notes/)
+[Return to Code 102 Table of Contents](https://rogermreyes.github.io/Reading-Notes/Code-102-Reading-Notes)

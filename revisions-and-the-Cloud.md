@@ -38,4 +38,4 @@ Used to backup lost information
   - C- is for git commit in order to record what you did and follow it with a -m to explain what and why you made changes
   - P- is for git push origin main to push the changes to the remote repository
 
-[Return to the Main Page](https://rogermreyes.github.io/reading-notes/)
+[Return to Code 102 Table of Contents](https://rogermreyes.github.io/Reading-Notes/Code-102-Reading-Notes)

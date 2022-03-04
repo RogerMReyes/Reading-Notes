@@ -36,4 +36,4 @@
 - Formatting with * also works with links
 - To link inside text it is best to encapsulate the text in [] and reference it with a [label] with the link later in the text
 
-[Return to the Main Page](https://rogermreyes.github.io/reading-notes/)
+[Return to Code 102 Table of Contents](https://rogermreyes.github.io/Reading-Notes/Code-102-Reading-Notes)

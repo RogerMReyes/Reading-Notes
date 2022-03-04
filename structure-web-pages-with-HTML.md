@@ -69,4 +69,4 @@ Wire frames can either be done by hand on a piece of paper or by wire frame tool
 Paper allows flexibility and are easy to change on spot  
 While wire frame tools have several extra features that may make the design process smoother
 
-[Return to the Main Page](https://rogermreyes.github.io/reading-notes/)
+[Return to Code 102 Table of Contents](https://rogermreyes.github.io/Reading-Notes/Code-102-Reading-Notes)

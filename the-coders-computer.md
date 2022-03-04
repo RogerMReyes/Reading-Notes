@@ -47,4 +47,4 @@ There are two types of paths
 - files starting with a dot (.) are hidden files
 - to see hidden files include use **ls -a**
 
-[Return to the Main Page](https://rogermreyes.github.io/reading-notes/)
+[Return to Code 102 Table of Contents](https://rogermreyes.github.io/Reading-Notes/Code-102-Reading-Notes)

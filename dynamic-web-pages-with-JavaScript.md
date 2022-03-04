@@ -24,4 +24,4 @@ Some key fundamental features of JavaScript
 - const will be used if the value will never change
 - console.log() will show what actions are happening of what you define inside
 
-[Return to the Main Page](https://rogermreyes.github.io/reading-notes/)
+[Return to Code 102 Table of Contents](https://rogermreyes.github.io/Reading-Notes/Code-102-Reading-Notes)

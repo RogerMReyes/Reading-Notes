@@ -57,4 +57,4 @@ Less than or equal (<=) | Returns true if the left operand is less than or equal
 - Will execute code until a specified condition evaluates to false 
 - Example - for(x < y) the code following this for loop will repeatedly execute if x is less than y since the expression is true and will break only when x is greater than y which makes the expression false
 
-[Return to the Main Page](https://rogermreyes.github.io/reading-notes/)
+[Return to Code 102 Table of Contents](https://rogermreyes.github.io/Reading-Notes/Code-102-Reading-Notes)
