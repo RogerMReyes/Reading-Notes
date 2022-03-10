@@ -55,5 +55,4 @@
 - `while` loops will run until the condition in its parenthesis are met
 - `do while` loops will run the code block at least once before checking the while loop condition
 
-
 [Return to Code 201 Table of Contents](https://rogermreyes.github.io/Reading-Notes/Code-201-Reading-Notes)
