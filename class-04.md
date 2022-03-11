@@ -7,11 +7,10 @@
 - Links use `<a>` with a `href` attribute to point towards the URL
 - The content between the tags is what the user clicks on to go to the link
 - Same site links can be linked with just the name of the file
-- `mailto:` attritibute wil open the users email program and insert the email associated with the link
+- `mailto:` attribute wil open the users email program and insert the email associated with the link
 - `target` will open the link in a new window
 - linking to different sections of the same page can be done by assigning an id to the element then linking the id in th `href` starting with a `#` symbol
-- The same can be done to link to a specific part of someone elses page by attahing the `#` and id to the end of the URL
-
+- The same can be done to link to a specific part of someone elses page by attaching the `#` and id to the end of the URL
 
 **Directory Structures** - pages can be organized into folders and can be thought of a tree
 
@@ -25,7 +24,7 @@
 - Block level elements inside another block level element follow the same parents child relation
 - There are a multitude of screen sizes and screen resolutions so it is best to by as dynamic as possible when designing layout
 
-**Positioning of Elements**
+**Positioning of Elements** - is important for proper page layout
 
 - Relative - Shifts it from its original position and does not affect the flow of other elements
 - Absolute - Positions element in relation to its containing element and is ignored by other elements
