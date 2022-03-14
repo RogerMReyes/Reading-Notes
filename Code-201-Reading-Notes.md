@@ -8,5 +8,6 @@
 - [Class 04](https://rogermreyes.github.io/Reading-Notes/class-04)
 - [Class 05](https://rogermreyes.github.io/Reading-Notes/class-05)
 - [Class 06](https://rogermreyes.github.io/Reading-Notes/class-06)
+- [Class 07](https://rogermreyes.github.io/Reading-Notes/class-07)
 
 [Return to Main](https://rogermreyes.github.io/Reading-Notes)
