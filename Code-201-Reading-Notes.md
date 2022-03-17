@@ -10,5 +10,7 @@
 - [Class 06](https://rogermreyes.github.io/Reading-Notes/class-06)
 - [Class 07](https://rogermreyes.github.io/Reading-Notes/class-07)
 - [Class 08](https://rogermreyes.github.io/Reading-Notes/class-08)
+- [Class 09](https://rogermreyes.github.io/Reading-Notes/class-09)
+
 
 [Return to Main](https://rogermreyes.github.io/Reading-Notes)
