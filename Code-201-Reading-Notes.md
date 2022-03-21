@@ -12,5 +12,6 @@
 - [Class 08](https://rogermreyes.github.io/Reading-Notes/class-08)
 - [Class 09](https://rogermreyes.github.io/Reading-Notes/class-09)
 - [Class 10](https://rogermreyes.github.io/Reading-Notes/class-10)
+- [Class 11](https://rogermreyes.github.io/Reading-Notes/class-11)
 
 [Return to Main](https://rogermreyes.github.io/Reading-Notes)
