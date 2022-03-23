@@ -16,5 +16,6 @@
 - [Class 12](https://rogermreyes.github.io/Reading-Notes/class-12)
 - [Class 13](https://rogermreyes.github.io/Reading-Notes/class-13)
 - [Class 14a](https://rogermreyes.github.io/Reading-Notes/class-14a)
+- [Class 14b](https://rogermreyes.github.io/Reading-Notes/class-14b)
 
 [Return to Main](https://rogermreyes.github.io/Reading-Notes)
