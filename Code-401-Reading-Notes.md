@@ -6,6 +6,8 @@
 - [Introduction to SQL](https://rogermreyes.github.io/Reading-Notes/introduction-to-SQL)
 - [Read 01](https://rogermreyes.github.io/Reading-Notes/401-read01)
 - [Read 02](https://rogermreyes.github.io/Reading-Notes/401-read02)
+- [Read 03](https://rogermreyes.github.io/Reading-Notes/401-read03)
+
 
 
 [Return to Main](https://rogermreyes.github.io/Reading-Notes)
