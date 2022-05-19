@@ -7,6 +7,8 @@
 - [Read 01](https://rogermreyes.github.io/Reading-Notes/401-read01)
 - [Read 02](https://rogermreyes.github.io/Reading-Notes/401-read02)
 - [Read 03](https://rogermreyes.github.io/Reading-Notes/401-read03)
+- [Read 04](https://rogermreyes.github.io/Reading-Notes/401-read04)
+
 
 
 
