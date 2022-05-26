@@ -9,7 +9,9 @@
 - [Read 03](https://rogermreyes.github.io/Reading-Notes/401-read03)
 - [Read 04](https://rogermreyes.github.io/Reading-Notes/401-read04)
 - [Read 06](https://rogermreyes.github.io/Reading-Notes/401-read06)
-- [Read 07](https://rogermreyes.github.io/Reading-Notes/401-read07)
+- [Read 08](https://rogermreyes.github.io/Reading-Notes/401-read08)
+- [Read 09](https://rogermreyes.github.io/Reading-Notes/401-read09)
+
 
 
 [Return to Main](https://rogermreyes.github.io/Reading-Notes)
