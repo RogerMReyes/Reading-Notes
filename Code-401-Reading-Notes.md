@@ -12,5 +12,6 @@
 - [Read 08](https://rogermreyes.github.io/Reading-Notes/401-read08)
 - [Read 09](https://rogermreyes.github.io/Reading-Notes/401-read09)
 - [Read 11](https://rogermreyes.github.io/Reading-Notes/401-read11)
+- [Read 12](https://rogermreyes.github.io/Reading-Notes/401-read12)
 
 [Return to Main](https://rogermreyes.github.io/Reading-Notes)
