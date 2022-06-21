@@ -19,6 +19,6 @@
 - [Read 17](https://rogermreyes.github.io/Reading-Notes/401-read17)
 - [Read 18](https://rogermreyes.github.io/Reading-Notes/401-read18)
 - [Read 26](https://rogermreyes.github.io/Reading-Notes/401-read26)
-
+- [Read 27](https://rogermreyes.github.io/Reading-Notes/401-read27)
 
 [Return to Main](https://rogermreyes.github.io/Reading-Notes)
